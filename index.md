@@ -8,8 +8,8 @@ Page principale
 Licence 2
 ---------
 
-- [Page du cours d'Élements de Programmation Objet](l2epo)
-- [Page des TP d'Élements de Programmation Objet](l2epotp)
+- [Page du cours d'Éléments de Programmation Objet](l2epo)
+- [Page des TP d'Éléments de Programmation Objet](l2epotp)
 
 Master 1
 --------
