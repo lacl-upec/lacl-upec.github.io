@@ -15,7 +15,7 @@ Master 1
 --------
 
 - [Page des TP de Java avancé](m1javaa)
-- [Page du Cours et des TP de Langages de spécification : B](m1lf)
+- [Page du Cours et des TP de Langages de spécification : B](m1ls)
 
 Master 2
 --------
