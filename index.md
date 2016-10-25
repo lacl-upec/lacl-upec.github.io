@@ -26,4 +26,4 @@ Master 2
 TUT
 ---
 
--[Slides for lesson about B method](Lesson B Method.pdf)
+-[Slides for lesson about B method](Lesson B method.pdf)
