@@ -22,3 +22,8 @@ Master 2
 
 - [Page du cours de programmation sécurisée](m2jca)
 - [Page du cours de Méthodes Formelles (*Formal Methods*)](m2mf)
+
+TUT
+---
+
+-[Slides for lesson about B method](Lesson B Method.pdf)
